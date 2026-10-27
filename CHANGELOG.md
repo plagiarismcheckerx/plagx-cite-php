@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.2.2: 2026-10-27
+
+- Documentation updates. No changes to the API or output.
+
 ## 0.2.1: 2026-10-21
 
 First PHP release, matching Plagx Cite 0.2.1 for JavaScript.
